@@ -17,7 +17,8 @@
 ## Datasource 
 [Sunshine Bank Loan Data](https://docs.google.com/spreadsheets/d/1eo0YLrxjnMyNgUQeccQclXg0wYeXD15mCBZssU3Wikk/edit?usp=sharing)
 
-## Data Modeling 
+## Data Modelling 
+![Sunshine Bank Data Model](https://github.com/Sorbari2016/sunshine-bank-loan-analysis-/blob/main/assets/Sunshine%20Data%20Model.png)
 
 ## Dashboard 
 
