@@ -21,5 +21,13 @@
 ![Sunshine Bank Data Model](https://github.com/Sorbari2016/sunshine-bank-loan-analysis-/blob/main/assets/Sunshine%20Data%20Model.png)
 
 ## Dashboard 
+### Page 1 
+![Dashboard-Page 1](https://github.com/Sorbari2016/sunshine-bank-loan-analysis-/blob/main/assets/Dashboard%20-%20Page%201.png)
+
+### Page 2
+![Dashboard-Page 2](https://github.com/Sorbari2016/sunshine-bank-loan-analysis-/blob/main/assets/Dashboard%20-%20Page%202.png)
 
 ## Recommendations 
+
+## Download 
+[Download the Power BI file](https://github.com/Sorbari2016/sunshine-bank-loan-analysis-/blob/main/assets/Sunshine%20Bank%20Loan%20Project.pbix)
